@@ -16,7 +16,7 @@
     E-Suivi
     </author>
 	
-	<content src="index.html" />
+	<content src="http://labseo.net/app/app/core/index.html" />
 		<feature name="InAppBrowser">
     <param name="android-package" value="org.apache.cordova.InAppBrowser" />
 </feature>
